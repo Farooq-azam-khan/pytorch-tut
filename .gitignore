@@ -1,3 +1,5 @@
 *.pdf
 *.zip
 GTSRB/
+data
+__pycache__
