@@ -12,7 +12,7 @@ import pandas as pd
 
 import matplotlib.pyplot as plt 
 
-
+# get the data from here: https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
 print('Setting Params')
 sns.set(style='whitegrid', palette='muted', font_scale=1.2)
 
